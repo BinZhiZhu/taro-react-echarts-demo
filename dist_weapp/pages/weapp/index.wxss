@@ -1,0 +1,10 @@
+.weapp-button {
+  padding: 20rpx;
+  margin: 20rpx;
+}
+
+.swan-button {
+  padding: 20rpx;
+  margin: 20rpx;
+}
+
