@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+import Taro from "@tarojs/taro"
 import {View} from '@tarojs/components'
 import './index.scss'
 import Chart from "taro-echarts";
@@ -52,7 +52,7 @@ const options = {
 };
 
 
-export default class Index extends Component {
+export default class Index extends Taro.Component {
 
   componentWillMount () { }
 

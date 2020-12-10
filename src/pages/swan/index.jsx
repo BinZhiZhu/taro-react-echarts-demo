@@ -1,9 +1,9 @@
-import React, { Component } from 'react'
+import Taro from "@tarojs/taro"
 import {View} from '@tarojs/components'
 import './index.scss'
 import SwanChart from "../../components/swan-chart";
 
-export default class Index extends Component {
+export default class Index extends Taro.Component {
 
   componentWillMount () { }
 
