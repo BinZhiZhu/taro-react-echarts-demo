@@ -36,8 +36,6 @@ email：binzhizhu@gamil.com
 
 <div align="center">
 	<br>
-	<a href="https://github.com/BinZhiZhu/taro-react-echarts-demo/header.svg">
 		<img src="header.svg" width="800" height="400">
-	</a>
 	<br>
 </div>
