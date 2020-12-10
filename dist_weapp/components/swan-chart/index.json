@@ -1,5 +1,0 @@
-{
-    "usingSwanComponents": {
-        "chart": "dynamicLib://echartsLib/chart"
-    }
-}

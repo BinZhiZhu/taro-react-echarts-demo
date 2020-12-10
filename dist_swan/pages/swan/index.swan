@@ -1,2 +1,0 @@
-<import src="../../base.swan"/>
-  <template is="taro_tmpl" data="{{{ root:root }}}" />
