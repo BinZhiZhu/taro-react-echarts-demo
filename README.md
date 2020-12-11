@@ -20,6 +20,8 @@ npm run dev:swan
 master分支是3.x版本，这个版本暂时跑不起来，如果看效果请checkout到feature/v2分支，可以成功跑起来demo示例，
 feature/v2是taro 2.x版本，可以成功跑起来demo  
 
+后续打算把taro-echarts这个依赖去掉，直接使用taro写的，不引入原生组件，兼容性会好一些
+
 ## 示例图
 1.微信小程序  
 
